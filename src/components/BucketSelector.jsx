@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import { Select } from "antd";
 import { connect } from "react-redux";
 import { setSelectedBucket } from "../store/actions/bucketAction";
+import "../index.css";
 
 const { Option } = Select;
 
