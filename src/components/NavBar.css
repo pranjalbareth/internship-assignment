@@ -1,0 +1,18 @@
+.bucket-name-input {
+  width: 22vw;
+}
+.NavBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 40px;
+  background-color: #ebedef;
+}
+.bucket-creator {
+  display: flex;
+  gap: 8px;
+}
+.title {
+  margin: 0 !important;
+  color: #5e5e5e !important;
+}
